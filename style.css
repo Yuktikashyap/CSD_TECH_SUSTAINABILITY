@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:20');
+
+body{
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins',sans-serif;
+    background: url("https://images.pexels.com/photos/157039/pexels-photo-157039.jpeg?cs=srgb&dl=pexels-flickr-157039.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.content div{
+    
+    padding: 5vw;
+}
+
+.content h1{
+    text-align: center;
+    margin-top: 121px;
+    margin-left: 6%;
+    margin-bottom: 12px;
+    padding: 0;
+    font-size: 5vw;
+    letter-spacing: 19px;
+    font-weight: bold;
+    color: aliceblue;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.content hr{
+    /* background-color: white;
+height: 0.2vh; */
+margin-bottom: 100px;
+}
+
+.content h2{
+    text-align: center;
+    margin: 10;
+    
+    margin-bottom: 100px;
+    padding: 0;
+    font-size: 2vw;
+    letter-spacing: 9px;
+    font-weight: bold;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.content pre{
+    margin: 50px;
+    text-align: center;
+    padding: 0;
+    font-size: 1.5vw;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.content h3{
+    font-size: 2.8vw;
+    word-spacing: 8px;
+}
+.content h4{
+    font-size: 2.5vw;
+    word-spacing: 8px;
+}
+.content h5{
+    font-size: 24px;
+}
+
